@@ -1,0 +1,358 @@
+{ "websites":
+  [
+     {"data":  {
+      "county_name": "COLUMBIA COUNTY",
+    "first_page_url": "https://www.columbiacountysheriffar.org/roster.php?grp=40&grp=20",
+      "second_page_xpath": "/html/body/div[3]/main/div/section/div[2]/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/section/div[2]/div/nav/a[7]",
+    "profiles_url": "https://www.columbiacountysheriffar.org/",
+    "image_url": "https://www.columbiacountysheriffar.org/templates/columbiacountysheriffar.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/section/div[2]/div/span",
+      "image_path": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "arrest_agency": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[5]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "bond": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[9]/div[2]",
+      "charges": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[8]/div/span"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+        "county_name": "JEFFERSON COUNTY",
+    "first_page_url": "https://www.jeffcoso.org/roster.php?grp=40&grp=20",
+      "second_page_xpath": "/html/body/div[3]/main/div/section/div[2]/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/section/div[2]/div/nav/a[9]",
+    "profiles_url": "https://www.jeffcoso.org/",
+    "image_url": "https://www.jeffcoso.org/templates/jeffcoso.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/section/div[2]/span",
+      "image_path": "/html/body/div[3]/main/div/section/div[2]/table/tbody/tr[1]/td[1]/img",
+      "age": "/html/body/div[3]/main/div/section/div[2]/table/tbody/tr[1]/td[2]/table/tbody/tr[2]/td[2]",
+      "gender": "/html/body/div[3]/main/div/section/div[2]/table/tbody/tr[1]/td[2]/table/tbody/tr[3]/td[2]",
+      "race": "/html/body/div[3]/main/div/section/div[2]/table/tbody/tr[1]/td[2]/table/tbody/tr[4]/td[2]",
+      "address": "/html/body/div[3]/main/div/section/div[2]/table/tbody/tr[1]/td[2]/table/tbody/tr[5]/td[2]",
+      "booking_date": "/html/body/div[3]/main/div/section/div[2]/table/tbody/tr[1]/td[2]/table/tbody/tr[6]/td[2]",
+      "charges": "/html/body/div[3]/main/div/section/div[2]/table/tbody/tr[1]/td[2]/table/tbody/tr[6]/td[2]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+                "county_name": "Lawrence County",
+    "first_page_url": "https://www.lawrencecosheriff.com/roster.php?grp=20&grp=10",
+      "second_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[7]",
+    "profiles_url": "https://www.lawrencecosheriff.com/",
+    "image_url": "https://www.lawrencecosheriff.com/templates/lawrencecosheriff.com/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/section/div/div/strong",
+      "image_path": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "address": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[5]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[7]/div[2]",
+      "bond": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[10]/div[2]",
+      "charges": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[9]/div/span"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Mississippi County",
+    "first_page_url": "https://www.mississippicountysheriffar.org/roster.php?grp=40&grp=20",
+      "second_page_xpath": "/html/body/div[3]/main/div/section/div[2]/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/section/div[2]/div/nav/a[9]",
+    "profiles_url": "https://www.mississippicountysheriffar.org/",
+    "image_url": "https://www.mississippicountysheriffar.org/templates/mississippicountysheriffar.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/section/div[2]/div/strong",
+      "image_path": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "address": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[5]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[3]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[8]/div/span"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Cross County",
+    "first_page_url": "https://www.crosscountysheriff.org/roster.php?grp=40&grp=20",
+      "second_page_xpath": "/html/body/div[2]/main/div/section/div[2]/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[2]/main/div/section/div[2]/div/nav/a[6]",
+    "profiles_url": "https://www.crosscountysheriff.org/",
+    "image_url": "https://www.crosscountysheriff.org/templates/crosscountysheriff.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[2]/main/div/section/div[2]/div/span",
+      "image_path": "/html/body/div[2]/main/div/section/div[2]/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[2]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[2]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[2]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[2]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[2]/main/div/section/div[2]/div/div/div[1]/div/div[2]/div[8]/div/span"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Tom Green County",
+    "first_page_url": "https://www.tomgreencountysheriff.org/roster.php?&grp=20",
+      "second_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[9]",
+    "profiles_url": "https://www.tomgreencountysheriff.org/",
+    "image_url": "https://www.crosscountysheriff.org/templates/crosscountysheriff.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/section/div/div/strong",
+      "image_path": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[9]/div[2]"
+    }
+    ]
+  }
+    },
+{
+      "data":  {
+    "county_name": "Stone County",
+    "first_page_url": "https://www.stonecountymosheriff.com/roster.php?grp=20&grp=10",
+      "second_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[9]",
+    "profiles_url": "https://www.stonecountymosheriff.com/",
+    "image_url": "https://www.stonecountymosheriff.com/templates/stonecountymosheriff.com/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/section/div/div/strong",
+      "image_path": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[9]/div[2]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Douglas County",
+    "first_page_url": "https://www.sheriffofdouglascountywi.org/roster.php?grp=20&grp=10",
+      "second_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[9]",
+    "profiles_url": "https://www.sheriffofdouglascountywi.org/",
+    "image_url": "https://www.sheriffofdouglascountywi.org/templates/sheriffofdouglascountywi.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/section/div/div/strong",
+      "image_path": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[9]/div[2]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Cape County",
+    "first_page_url": "https://www.capecountysheriff.org/roster.php?grp=20&grp=10",
+      "second_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[9]",
+    "profiles_url": "https://www.capecountysheriff.org/",
+    "image_url": "capecountysheriff.org/templates/capecountysheriff.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/section/div/div/strong",
+      "image_path": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[9]/div[2]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Bourbon County",
+    "first_page_url": "https://www.bourboncountysheriffks.org/roster.php?&grp=10",
+      "second_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[7]",
+    "profiles_url": "https://www.bourboncountysheriffks.org/",
+    "image_url": "https://www.bourboncountysheriffks.org/templates/bourboncountysheriffks.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/section/div/div/strong",
+      "image_path": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[9]/div[2]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Bourbon County",
+    "first_page_url": "https://www.bourboncountysheriffks.org/roster.php?&grp=10",
+      "second_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/section/div/div/nav/a[7]",
+    "profiles_url": "https://www.bourboncountysheriffks.org/",
+    "image_url": "https://www.bourboncountysheriffks.org/templates/bourboncountysheriffks.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/section/div/div/strong",
+      "image_path": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[3]/main/div/section/div/div/div/div[1]/div/div[2]/div[9]/div[2]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Broadwater County",
+    "first_page_url": "https://www.broadwatercountysheriff.org/roster.php?grp=40&grp=10",
+      "second_page_xpath": "/html/body/div[3]/main/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/div/nav/a[6]",
+    "profiles_url": "https://www.broadwatercountysheriff.org/",
+    "image_url": "https://www.bourboncountysheriffks.org/templates/bourboncountysheriffks.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/div/strong",
+      "image_path": "/html/body/div[3]/main/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "Address": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[7]/div[2]",
+      "charges": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[9]/div/span",
+      "bond": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[10]/div[2]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Callaway County",
+    "first_page_url": "https://www.callawaysheriff.org/roster.php?grp=20&grp=10",
+      "second_page_xpath": "/html/body/div[3]/main/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/div/nav/a[9]",
+    "profiles_url": "https://www.callawaysheriff.org/",
+    "image_url": "https://www.bourboncountysheriffks.org/templates/bourboncountysheriffks.org/images/inmates/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/div/strong",
+      "image_path": "/html/body/div[3]/main/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[9]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Camden County",
+    "first_page_url": "https://www.camdencountymosheriff.org/roster.php?grp=20&grp=10",
+      "second_page_xpath": "/html/body/div[2]/main/div/section/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[2]/main/div/section/div/div/nav/a[9]",
+    "profiles_url": "https://www.camdencountymosheriff.org/",
+    "xpath" : [{
+      "name": "/html/body/div[2]/main/div/section/div/div/strong",
+      "image_path": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[9]/div[2]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Camden County",
+    "first_page_url": "https://www.camdencountymosheriff.org/roster.php?grp=20&grp=10",
+      "second_page_xpath": "/html/body/div[2]/main/div/section/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[2]/main/div/section/div/div/nav/a[9]",
+    "profiles_url": "https://www.camdencountymosheriff.org/",
+    "xpath" : [{
+      "name": "/html/body/div[2]/main/div/section/div/div/strong",
+      "image_path": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[2]/main/div/section/div/div/div/div[1]/div/div[2]/div[9]/div[2]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Colbert County",
+    "first_page_url": "https://www.colbertsheriff.net/roster.php?&grp=20",
+      "second_page_xpath": "/html/body/div[3]/main/div[1]/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div[1]/div/nav/a[9]",
+    "profiles_url": "https://www.colbertsheriff.net/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div[1]/div/strong",
+      "image_path": "/html/body/div[3]/main/div[1]/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div[1]/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "gender": "/html/body/div[3]/main/div[1]/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div[1]/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div[1]/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[3]/main/div[1]/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[3]/main/div[1]/div/div/div[1]/div/div[2]/div[9]/div[2]"
+    }
+    ]
+  }
+    },
+    {
+      "data":  {
+    "county_name": "Escambia County",
+    "first_page_url": "https://www.escambiacountysheriffal.org/roster.php?grp=20&grp=10",
+      "second_page_xpath": "/html/body/div[3]/main/div/div/nav/a[1]",
+      "next_page_xpath": "/html/body/div[3]/main/div/div/nav/a[9]",
+    "profiles_url": "https://www.escambiacountysheriffal.org/",
+    "xpath" : [{
+      "name": "/html/body/div[3]/main/div/div/strong",
+      "image_path": "/html/body/div[3]/main/div/div/div/div[1]/div/div[1]/img",
+      "age": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[2]/div[2]",
+      "gender": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[3]/div[2]",
+      "race": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[4]/div[2]",
+      "booking_date": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[6]/div[2]",
+      "charges": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[8]/div/span",
+      "bond": "/html/body/div[3]/main/div/div/div/div[1]/div/div[2]/div[9]/div[2]"
+    }
+    ]
+  }
+    }
+  ]
+}
